@@ -1,5 +1,5 @@
 # BasicCAD420lol
 ## header 2
-![The Namekians](images/the Namekians.png)
+![Namekians](images/Namekians03.png)
 regular text
 :octocat: 
